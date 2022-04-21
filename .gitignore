@@ -1,0 +1,9 @@
+/env/
+#/key-file.json
+/google-cloud-sdk
+/.DS_Store
+/download_databases/data/
+/data/
+/processed_files/
+#/transcriptions/
+/info/
